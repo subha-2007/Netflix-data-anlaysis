@@ -26,6 +26,7 @@ Pandas — data cleaning and manipulation
 Perform exploratory data analysis (EDA) on the cleaned dataset.
 Create visualizations to uncover trends (e.g., content added by year, most common genres, ratings distribution).
 Build a dashboard to present key insights.
+https://github.com/users/subha-2007/projects/4/views/1
 
 
 This project is for educational purposes. Dataset rights belong to the original Kaggle contributor.
